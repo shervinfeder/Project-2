@@ -55,10 +55,11 @@
 }
 
 .resize {
-  max-height:auto;
-  flex: 1;
-    justify-content: center;
-  flex-shrink: 3;
+  align-items: center;
+  max-width: 60%;
+  justify-content: center;
+  margin-left: 5%;
+  margin-right: auto;
 
 }
 
